@@ -22,7 +22,6 @@ The project is structured into three main modules:
 
 ### Diagram
 
-```plaintext
 +-----------------+      +-----------------+      +-----------------+
 |    main.py      |      |  events_tracker |      | fernet_cipher   |
 |                 |      |                 |      |                 |
