@@ -21,7 +21,7 @@ The project is structured into three main modules:
 3. **fernet_cipher.py**: Handles the encryption and decryption of the logs using the `cryptography.fernet` module.
 
 ### Diagram
-
+```
 +-----------------+      +-----------------+      +-----------------+
 |    main.py      |      |  events_tracker |      | fernet_cipher   |
 |                 |      |                 |      |                 |
@@ -43,6 +43,7 @@ The project is structured into three main modules:
 | | stopper     | |
 | +-------------+ |
 +-----------------+
+```
 
 ## Installation
 
