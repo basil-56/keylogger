@@ -109,4 +109,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Disclaimer
 
 This project is for educational purposes only. Unauthorized use of keyloggers to capture data without consent is illegal and unethical. Always use this software responsibly and in compliance with local laws and regulations.
-```
