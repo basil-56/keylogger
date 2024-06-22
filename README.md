@@ -59,7 +59,7 @@ The project is structured into three main modules:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/secure-keylogger.git
+    git clone https://github.com/basil-56/secure-keylogger.git
     cd secure-keylogger
     ```
 
