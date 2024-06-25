@@ -9,6 +9,7 @@ This project implements a keylogger application capable of recording keystrokes 
 - **Secure Logging**: Encrypts the log data using Fernet symmetric encryption.
 - **Multiprocessing**: Efficiently manages the logging process using Python's multiprocessing module.
 
+
 ## Architecture
 
 The project is structured into three main modules:
